@@ -10,6 +10,7 @@ Unit labs and midterm submissions for systems administration coursework.
 
 | Area | Description |
 |------|-------------|
+| [Archive index](docs/archive-index.md) | Catalog of files in `archive/` with direct links |
 | [`archive/canvas-submissions/`](archive/canvas-submissions/) | Unit 1 work, lab 4, midterm parts 1-2 |
 
 ### Highlights
