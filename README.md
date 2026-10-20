@@ -1,6 +1,6 @@
-﻿# IA 244 â€” Administration of Computer Systems
+﻿# IA 244 - Administration of Computer Systems
 
-College coursework archive for **IA 244 â€” Administration of Computer Systems** at Eastern Michigan University.  
+College coursework archive for **IA 244 - Administration of Computer Systems** at Eastern Michigan University.  
 Unit labs and midterm submissions for systems administration coursework.
 
 **Author:** [Julio Barros](https://github.com/Jkbarros)  
@@ -31,7 +31,7 @@ flowchart LR
 
 | Course | Link |
 |--------|------|
-| IA 103 â€” Information Security Overview | [information-security-overview](https://github.com/Jkbarros/information-security-overview) |
+| IA 103 - Information Security Overview | [information-security-overview](https://github.com/Jkbarros/information-security-overview) |
 | college-projects index | [college-projects](https://github.com/Jkbarros/college-projects) |
 
 ## Roadmap
@@ -46,4 +46,4 @@ flowchart LR
 
 ## License
 
-Content Â© Julio Barros. Use at your own risk.
+Content © Julio Barros. Use at your own risk.
